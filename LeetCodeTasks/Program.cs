@@ -27,6 +27,10 @@ namespace LeetCodeTasks
             }
             Console.WriteLine();*/
 
+            // Palindrome test
+            /*bool answer = PalindromNumber.PalindromNum.IsPalindrome(121);
+            bool answer2 = PalindromNumber.PalindromNum.IsPalindromeWithString(12);
+            Console.WriteLine(answer2);*/
         }
     }
 }

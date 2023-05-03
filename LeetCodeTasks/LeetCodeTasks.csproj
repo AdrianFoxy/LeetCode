@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Find the Difference of Two Arrays\FindTheDiffOfTwoArrays.cs" />
+    <Compile Include="PalindromeNumber\PalindromeNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TwoSum\SolutionTwoSum.cs" />
